@@ -32,3 +32,5 @@ module.exports = {
 ```
 
 - Now, from the root of your project you can build with `yarn run build`
+
+Next up, check out [tutorial/step-two](https://github.com/damonblack/webpack-tutorial/tree/tutorial/step-two)
