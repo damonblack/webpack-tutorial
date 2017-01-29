@@ -26,7 +26,7 @@ module.exports = {
     "build": "webpack"
   },
   "devDependencies": {
-    "webpack": "^1.14.0",
+    "webpack": "beta",
   }
 }
 ```
