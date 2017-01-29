@@ -23,3 +23,5 @@ Let's start from the beginning. Here's a very simple webpack project.
 - Open the html file in a browser and admire your handiwork.
 
 - Lastly, we'll add the build and node_modules to our .gitignore file.
+
+For the next step, pull the branch [tutorial/step-one](https://github.com/damonblack/webpack-tutorial/tree/tutorial/step-one)
