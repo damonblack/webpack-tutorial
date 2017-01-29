@@ -1,0 +1,11 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:damonblack/webpack-tutorial.git",
+  "author": "damonblack <black.damon@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "beta"
+  }
+}

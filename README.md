@@ -10,7 +10,7 @@ Let's start from the beginning. Here's a very simple webpack project.
 
 - `yarn init` and answer some questions. You can edit this information manually later. Yarn is a package manager (like npm) that will help us install and keep track of anything we need to build our project. The default config will offer 'index.js' as the entry point for your app, but I like 'app':
 
-- `yarn add -D webpack@beta` Webpack is a module builder that we'll use to bundle our frontend code and its dependencies. 'yarn add' installs it in the node_modules directory (which it will create if it's not there already). The -D option flags webpack as a 'devDependency', something we'll need to facillitate builds but not required for the release bundle. Yarn generates a `yarn.lock` files wich is like snapshot of all the libraries used in the last successful build. We'll want to commit this to our repo.
+- `yarn add -D webpack@beta` Webpack is a module builder that we'll use to bundle our frontend code and its dependencies. 'yarn add' installs it in the node_modules directory (which it will create if it's not there already). The -D option flags webpack as a 'devDependency', something we'll need to facillitate builds but not required for the release bundle. Yarn generates a `yarn.lock` files wich is like snapshot of all the libraries used in the last successful build.
 
 - Create a `src` directory to keep our source files.
 
@@ -22,4 +22,4 @@ Let's start from the beginning. Here's a very simple webpack project.
 
 - Open the html file in a browser and admire your handiwork.
 
-- Lastly, we'll add the build and node_modules to our .gitignore file.
+- Lastly, we'll add the build and node_modules to our `.gitignore` file. You'll want to commit the `yarn.lock` though.
