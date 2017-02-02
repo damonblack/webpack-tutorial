@@ -11,7 +11,7 @@ module.exports = {
     path: './build',
     filename: 'app.bundle.js'
   }
-};`
+};
 ```
 
 - Now we can call webpack without the entry and output arguments: `./node_modules/.bin/webpack`
