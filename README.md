@@ -2,7 +2,7 @@
 
 We want to live in the future, not the past. So let's pretend the latest ECMAScript spec has been widely adopted and write our code with the shiny new syntax!
 
-As an example, we could add some code to our `app.js` file that won't work in some browsers. The exponentian operator (**) will work in the latest version fo Chrome, but not Firefox (51.0.1). Replace your current app.js code with this:
+As an example, we could add some code to our `app.js` file that won't work in some browsers. The exponentian operator (**) will work in the latest version of Chrome, but not Firefox (51.0.1). Replace your current app.js code with this:
 
 ```javascript
 alert(`4 squared is ${4 ** 2}`);
