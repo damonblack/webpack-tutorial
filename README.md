@@ -12,7 +12,7 @@ If you `yarn run build` and then open the `index.html` with Chrome, this will wo
 
 - `yarn add -D babel-core babel-loader babel-preset-latest`
 
-Babel is a transpiler that let's us write code using next generation javascript syntax, but converts it to older versions of javaacript for browsers that don't yet support the new features.
+Babel is a transpiler that let's us write code using next generation javascript syntax, but converts it to older versions of javascript for browsers that don't yet support the new features.
 
 Add the following to your webpack.config.js file:
 
