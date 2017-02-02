@@ -24,4 +24,4 @@ Let's start from the beginning. Here's a very simple webpack project.
 
 - Lastly, we'll add the build and node_modules to our .gitignore file.
 
-For the next step, pull the branch [tutorial/step-one](https://github.com/damonblack/webpack-tutorial/tree/tutorial/step-one)
+For the next step: [tutorial/step-one](https://github.com/damonblack/webpack-tutorial/tree/tutorial/step-one)
